@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{{ helper.pathFor('${1:name}'${2:, { ${3:cate}: ${4:id}}}) }}
+]]></content>
+	<tabTrigger>url</tabTrigger>
+	<scope>source.html, text.html</scope>
+	<description>helper.pathFor</description>
+</snippet>
