@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[{% extends ${1:"${2:template}"} %}]]></content>
+	<tabTrigger>extends</tabTrigger>
+	<scope>source.html, text.html</scope>
+	<description>extends</description>
+</snippet>

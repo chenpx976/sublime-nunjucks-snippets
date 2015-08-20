@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[{% pluralize %}]]></content>
+	<tabTrigger>pluralize</tabTrigger>
+	<scope>source.html, text.html</scope>
+	<description>pluralize</description>
+</snippet>

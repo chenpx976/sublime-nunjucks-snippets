@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[{% autoescape ${1:false} %}
+	${2:$SELECTION}
+{% endautoescape %}]]></content>
+	<tabTrigger>autoescape</tabTrigger>
+	<scope>source.html, text.html</scope>
+	<description>autoescape</description>
+</snippet>
